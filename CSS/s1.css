@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  margin:0px;
+  font-family: bold;
+}
+.text{
+  font-size: 16px;
+  text-align: center;
+  padding-bottom: 25px;
+  padding-top: 50px;
+}
+.textbody{
+  font-size: 18px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  Color: white;
+  background-color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top:275px;
+  width: 100%;
+  height: 775px;
+
+}
+.fronttop {
+  position: static;
+  width: 100%;
+  height: 125px;
+  Color: white;
+  background-color: rgba(0, 0, 0, 1);
+  padding-block-start: 40px;
+  text-align: center;
+}
+.linksec{
+ position: absolute;
+ top:166px;
+ width: 200px;
+ height: 20px;
+ Color: Black;
+ background-color: rgba(200, 200, 200, 1);
+ font-size: 16px;
+ text-align: left;
+ padding-bottom: 20px;
+}
+.textopen{
+  position: absolute;
+  top:500px;
+  width: 100%;
+  height: 100px;
+  Color: white;
+  background-color: rgba(0, 0, 0, 1);
+  padding-top: 50px;
+  padding-bottom: 125px;
+  padding-left: 30px;
+  text-align: left;
+}
+img.align-right {
+  float : right;
+  margin-right: 50px;
+}
+img.medium{
+  width: 300px;
+  height: 200px;
+}
+img.align-left {
+  float : left;
+  margin-left: 50px;
+}
+img.medium2{
+  width: 200px;
+  height: 100px;
+}
+
+li {
+  text-align: left;
+  margin-left: 25%;
+}
+
+.socialtab {
+  color: black;
+  font-size: 18px;
+  text-align: left;
+  position: absolute;
+  top: 1150px;
+  left: 5%;
+}
+
+.listOfSocials{
+  color: black;
+  width: 300px;
+  height: 190px;
+  font-size: 18px;
+  position: absolute;
+  top: 1105px;
+  left: 75%;
+}
